@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "月導",
+  "base_artist": "ミヤコ(CV:藤田茜)",
+  "createdAt": "2026-02-12T05:51:53.106301Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "月導-Tsukishirube-",
+      "artist": "南里侑香",
+      "has_synced": false,
+      "path": "select/01_月導-Tsukishirube-_南里侑香.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "月導",
+      "artist": "ミヤコ(CV:藤田茜)",
+      "has_synced": false,
+      "path": "select/pl_01_月導_ミヤコ(CV_藤田茜).txt"
+    }
+  ]
+}
